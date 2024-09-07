@@ -1,13 +1,13 @@
 # Sample GitHub Project
 
-This is a simple project create to practice GitHub workflows like pull request and colloborations.
+This is a simple project **created** to practice GitHub workflows like pull requests and **collaborations**.
 
 ## Getting Started
 
 To get started, follow these steps:
 
 1. **Clone the repository**  
-   Use the following command to clone the reposetory:
+   Use the following command to clone the **repository**:
 
    ```bash
    git clone https://github.com/<user>/<repository-name>.git
@@ -21,7 +21,7 @@ To get started, follow these steps:
    ```
 
 3. **Make changes**  
-   Edit the files and make the necessary change. After that, stage the changes:
+   Edit the files and make the necessary **changes**. After that, stage the changes:
 
    ```bash
    git add .
@@ -38,12 +38,12 @@ To get started, follow these steps:
    Push your branch to GitHub:
 
    ```bash
-   git push orgin <new-branch>
+   git push **origin** <new-branch>
    ```
 
 6. **Create a Pull Request**  
-   Go to GitHub and create a Pull Reques to merge your branch.
+   Go to GitHub and create a **Pull Request** to merge your branch.
 
 ## License
 
-This project is lincensed under the MIT License.
+This project is **licensed** under the MIT License.
